@@ -1,6 +1,6 @@
 ![title](ltfs2.jpg)
 
-# URL - https://datahack.analyticsvidhya.com/contest/ltfs-data-science-finhack-2-an-online-hackathon/
+URL - https://datahack.analyticsvidhya.com/contest/ltfs-data-science-finhack-2-an-online-hackathon/
 
 # LTFS Data Science FinHack 2
 
