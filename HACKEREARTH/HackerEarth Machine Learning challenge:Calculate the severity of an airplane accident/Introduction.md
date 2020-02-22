@@ -59,7 +59,7 @@ Machine Learning practice
 In order to be able to claim your prizes, your HackerEarth profile must be completed more than 50%.
 The prizes will be disbursed in the second week of the following month.
 
-## GUIDELINES
+### GUIDELINES
 
 Your output will be evaluated only for 50% of the test data while the contest is running. Once the contest is over, output for the remaining 50% of the data will be evaluated and the final rank will be awarded.
 
@@ -76,7 +76,7 @@ The IP of the product/code of the winners will belong to HackerEarth if they cho
 By participating in this Machine Learning, you agree to the terms and conditions of HackerEarth.
 
 
-## Leaderboard
+### Leaderboard
 ### Team:  Rajesh Goel
 ![title](Rank.jpg)
 
