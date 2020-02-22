@@ -25,7 +25,9 @@ We challenge you to build a model that predicts how severe an airplane accident 
 ### Prizes
 
 1st Prize - 250 USD
+
 2nd Prize - 150 USD
+
 3rd Prize - 75 USD
 
 ### Overview
