@@ -78,7 +78,7 @@ By participating in this Machine Learning, you agree to the terms and conditions
 
 # Leaderboard
 ## Team:  Rajesh Goel
-!(Rank.jpg)
+!![title](Rank.jpg)
 
 * **[Public LB](https://www.hackerearth.com/challenges/competitive/airplane-accident-severity-hackerearth-machine-learning-challenge/leaderboard/how-severe-can-an-airplane-accident-be-03e7a3f1/page/5/)** : **207th/7449 Rank**
 
