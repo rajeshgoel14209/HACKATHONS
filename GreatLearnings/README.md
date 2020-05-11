@@ -1,7 +1,7 @@
 
-![title](Image.jpg)
+![title](course.png)
 
-URL - https://www.hackerearth.com/challenges/competitive/airplane-accident-severity-hackerearth-machine-learning-challenge/
+URL - https://great-learning.shinyapps.io/Grand_hackathon_4/
 
 # HackerEarth Machine Learning challenge:Calculate the severity of an airplane accident
 
