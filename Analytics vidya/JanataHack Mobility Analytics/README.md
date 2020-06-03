@@ -15,7 +15,7 @@ You have been hired by Sigma Cabs as a Data Scientist and have been asked to bui
 
 # Data Dictionary :
 
-Data Dictionary
+Data Dictionary 
 
 Trip_ID : ID for TRIP (Can not be used for purposes of modelling)
 
