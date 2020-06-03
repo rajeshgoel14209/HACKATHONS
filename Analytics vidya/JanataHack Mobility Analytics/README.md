@@ -55,10 +55,12 @@ The final rankings would be based on your private score which will be published 
 ## Team:  raj00805
 
 * **[Public LB](https://datahack.analyticsvidhya.com/contest/janatahack-mobility-analytics/#LeaderBoard)** : **260th/321 Rank**
-* **[Private LB](https://datahack.analyticsvidhya.com/contest/janatahack-mobility-analytics/#LeaderBoard)** : **264th/321 Rank**
 
 
 ![title](Public.png)
+
+
+* **[Private LB](https://datahack.analyticsvidhya.com/contest/janatahack-mobility-analytics/#LeaderBoard)** : **264th/321 Rank**
 
 ![title](Private.png)
 
