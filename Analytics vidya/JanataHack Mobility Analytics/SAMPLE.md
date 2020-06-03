@@ -60,7 +60,7 @@ The final rankings would be based on your private score which will be published 
 
 ![title](Pic2.jpg)
 
-![title](Pic3.jpg)
+![title](pic3.jpg)
 
 
 
